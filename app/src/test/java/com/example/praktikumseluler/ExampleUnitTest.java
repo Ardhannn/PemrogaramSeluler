@@ -1,4 +1,4 @@
-package com.example.praktikumpps;
+package com.example.praktikumseluler;
 
 import org.junit.Test;
 

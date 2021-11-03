@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">PraktikumPPS</string>
+    <string name="app_name">PraktikumSeluler</string>
+    <string-array name="Kelas">
+        <item>Mobile 1</item>
+        <item>Mobile 2</item>
+        <item>Mobile 3</item>
+    </string-array>
 </resources>
